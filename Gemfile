@@ -14,6 +14,7 @@ gem 'coffee-rails', '~> 4.2'
 gem 'rb-readline'
 gem 'devise'
 gem 'paperclip'
+gem 'bootstrap-sass'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
